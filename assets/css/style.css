@@ -1,0 +1,19 @@
+table {
+    background-color: burlywood;
+}
+
+/* table tr {} */
+
+table tr td {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
